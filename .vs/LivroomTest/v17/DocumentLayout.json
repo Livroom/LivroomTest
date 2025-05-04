@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gaori\\UnityProjects\\LivroomTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{700CD560-502F-3218-D631-65295146C4D4}|Assembly-CSharp.csproj|c:\\users\\gaori\\unityprojects\\livroomtest\\assets\\scripts\\epubviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{700CD560-502F-3218-D631-65295146C4D4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\epubviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EpubViewer.cs",
+              "DocumentMoniker": "C:\\Users\\gaori\\UnityProjects\\LivroomTest\\Assets\\Scripts\\EpubViewer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EpubViewer.cs",
+              "ToolTip": "C:\\Users\\gaori\\UnityProjects\\LivroomTest\\Assets\\Scripts\\EpubViewer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EpubViewer.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwDMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T06:08:55.38Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

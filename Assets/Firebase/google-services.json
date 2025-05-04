@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "852789519277",
+    "project_id": "livroomdb",
+    "storage_bucket": "livroomdb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852789519277:android:15c60f769483c727acb724",
+        "android_client_info": {
+          "package_name": "com.livroom.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-ELHocafrna1uBQ0vvx0y3HwuY3-yIWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
